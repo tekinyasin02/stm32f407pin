@@ -1,0 +1,308 @@
+Added Component: Designator=P1(HDR2X25)
+Added Component: Designator=P2(HDR2X25)
+Added Component: Designator=P3(HDR2X25)
+Added Component: Designator=P4(HDR2X25)
+Added Pin To Net: NetName=NETLABEL29 Pin=P1-2
+Added Pin To Net: NetName=NETLABEL29 Pin=P2-2
+Added Net: Name=NETLABEL29
+Added Pin To Net: NetName=NETLABEL30 Pin=P1-4
+Added Pin To Net: NetName=NETLABEL30 Pin=P2-4
+Added Net: Name=NETLABEL30
+Added Pin To Net: NetName=NETLABEL31 Pin=P1-6
+Added Pin To Net: NetName=NETLABEL31 Pin=P2-6
+Added Net: Name=NETLABEL31
+Added Pin To Net: NetName=NETLABEL32 Pin=P1-8
+Added Pin To Net: NetName=NETLABEL32 Pin=P2-8
+Added Net: Name=NETLABEL32
+Added Pin To Net: NetName=NETLABEL33 Pin=P1-10
+Added Pin To Net: NetName=NETLABEL33 Pin=P2-10
+Added Net: Name=NETLABEL33
+Added Pin To Net: NetName=NETLABEL34 Pin=P1-12
+Added Pin To Net: NetName=NETLABEL34 Pin=P2-12
+Added Net: Name=NETLABEL34
+Added Pin To Net: NetName=NETLABEL35 Pin=P1-14
+Added Pin To Net: NetName=NETLABEL35 Pin=P2-14
+Added Net: Name=NETLABEL35
+Added Pin To Net: NetName=NETLABEL36 Pin=P1-16
+Added Pin To Net: NetName=NETLABEL36 Pin=P2-16
+Added Net: Name=NETLABEL36
+Added Pin To Net: NetName=NETLABEL37 Pin=P1-18
+Added Pin To Net: NetName=NETLABEL37 Pin=P2-18
+Added Net: Name=NETLABEL37
+Added Pin To Net: NetName=NETLABEL38 Pin=P1-20
+Added Pin To Net: NetName=NETLABEL38 Pin=P2-20
+Added Net: Name=NETLABEL38
+Added Pin To Net: NetName=NETLABEL39 Pin=P1-22
+Added Pin To Net: NetName=NETLABEL39 Pin=P2-22
+Added Net: Name=NETLABEL39
+Added Pin To Net: NetName=NETLABEL40 Pin=P1-24
+Added Pin To Net: NetName=NETLABEL40 Pin=P2-24
+Added Net: Name=NETLABEL40
+Added Pin To Net: NetName=NETLABEL41 Pin=P1-26
+Added Pin To Net: NetName=NETLABEL41 Pin=P2-26
+Added Net: Name=NETLABEL41
+Added Pin To Net: NetName=NETLABEL42 Pin=P1-28
+Added Pin To Net: NetName=NETLABEL42 Pin=P2-28
+Added Net: Name=NETLABEL42
+Added Pin To Net: NetName=NETLABEL43 Pin=P1-30
+Added Pin To Net: NetName=NETLABEL43 Pin=P2-30
+Added Net: Name=NETLABEL43
+Added Pin To Net: NetName=NETLABEL44 Pin=P1-32
+Added Pin To Net: NetName=NETLABEL44 Pin=P2-32
+Added Net: Name=NETLABEL44
+Added Pin To Net: NetName=NETLABEL45 Pin=P1-34
+Added Pin To Net: NetName=NETLABEL45 Pin=P2-34
+Added Net: Name=NETLABEL45
+Added Pin To Net: NetName=NETLABEL46 Pin=P1-36
+Added Pin To Net: NetName=NETLABEL46 Pin=P2-36
+Added Net: Name=NETLABEL46
+Added Pin To Net: NetName=NETLABEL47 Pin=P1-38
+Added Pin To Net: NetName=NETLABEL47 Pin=P2-38
+Added Net: Name=NETLABEL47
+Added Pin To Net: NetName=NETLABEL48 Pin=P1-40
+Added Pin To Net: NetName=NETLABEL48 Pin=P2-40
+Added Net: Name=NETLABEL48
+Added Pin To Net: NetName=NETLABEL49 Pin=P1-42
+Added Pin To Net: NetName=NETLABEL49 Pin=P2-42
+Added Net: Name=NETLABEL49
+Added Pin To Net: NetName=NETLABEL50 Pin=P1-44
+Added Pin To Net: NetName=NETLABEL50 Pin=P2-44
+Added Net: Name=NETLABEL50
+Added Pin To Net: NetName=NETLABEL51 Pin=P1-46
+Added Pin To Net: NetName=NETLABEL51 Pin=P2-46
+Added Net: Name=NETLABEL51
+Added Pin To Net: NetName=NETLABEL52 Pin=P1-48
+Added Pin To Net: NetName=NETLABEL52 Pin=P2-48
+Added Net: Name=NETLABEL52
+Added Pin To Net: NetName=NETLABEL53 Pin=P1-50
+Added Pin To Net: NetName=NETLABEL53 Pin=P2-50
+Added Net: Name=NETLABEL53
+Added Pin To Net: NetName=NETLABEL66 Pin=P1-1
+Added Pin To Net: NetName=NETLABEL66 Pin=P2-1
+Added Net: Name=NETLABEL66
+Added Pin To Net: NetName=NETLABEL67 Pin=P1-3
+Added Pin To Net: NetName=NETLABEL67 Pin=P2-3
+Added Net: Name=NETLABEL67
+Added Pin To Net: NetName=NETLABEL68 Pin=P1-5
+Added Pin To Net: NetName=NETLABEL68 Pin=P2-5
+Added Net: Name=NETLABEL68
+Added Pin To Net: NetName=NETLABEL69 Pin=P1-7
+Added Pin To Net: NetName=NETLABEL69 Pin=P2-7
+Added Net: Name=NETLABEL69
+Added Pin To Net: NetName=NETLABEL70 Pin=P1-9
+Added Pin To Net: NetName=NETLABEL70 Pin=P2-9
+Added Net: Name=NETLABEL70
+Added Pin To Net: NetName=NETLABEL71 Pin=P1-11
+Added Pin To Net: NetName=NETLABEL71 Pin=P2-11
+Added Net: Name=NETLABEL71
+Added Pin To Net: NetName=NETLABEL72 Pin=P1-13
+Added Pin To Net: NetName=NETLABEL72 Pin=P2-13
+Added Net: Name=NETLABEL72
+Added Pin To Net: NetName=NETLABEL73 Pin=P1-15
+Added Pin To Net: NetName=NETLABEL73 Pin=P2-15
+Added Net: Name=NETLABEL73
+Added Pin To Net: NetName=NETLABEL74 Pin=P1-17
+Added Pin To Net: NetName=NETLABEL74 Pin=P2-17
+Added Net: Name=NETLABEL74
+Added Pin To Net: NetName=NETLABEL75 Pin=P1-19
+Added Pin To Net: NetName=NETLABEL75 Pin=P2-19
+Added Net: Name=NETLABEL75
+Added Pin To Net: NetName=NETLABEL76 Pin=P1-21
+Added Pin To Net: NetName=NETLABEL76 Pin=P2-21
+Added Net: Name=NETLABEL76
+Added Pin To Net: NetName=NETLABEL77 Pin=P1-23
+Added Pin To Net: NetName=NETLABEL77 Pin=P2-23
+Added Net: Name=NETLABEL77
+Added Pin To Net: NetName=NETLABEL78 Pin=P1-25
+Added Pin To Net: NetName=NETLABEL78 Pin=P2-25
+Added Net: Name=NETLABEL78
+Added Pin To Net: NetName=NETLABEL79 Pin=P1-27
+Added Pin To Net: NetName=NETLABEL79 Pin=P2-27
+Added Net: Name=NETLABEL79
+Added Pin To Net: NetName=NETLABEL80 Pin=P1-29
+Added Pin To Net: NetName=NETLABEL80 Pin=P2-29
+Added Net: Name=NETLABEL80
+Added Pin To Net: NetName=NETLABEL81 Pin=P1-31
+Added Pin To Net: NetName=NETLABEL81 Pin=P2-31
+Added Net: Name=NETLABEL81
+Added Pin To Net: NetName=NETLABEL82 Pin=P1-33
+Added Pin To Net: NetName=NETLABEL82 Pin=P2-33
+Added Net: Name=NETLABEL82
+Added Pin To Net: NetName=NETLABEL83 Pin=P1-35
+Added Pin To Net: NetName=NETLABEL83 Pin=P2-35
+Added Net: Name=NETLABEL83
+Added Pin To Net: NetName=NETLABEL84 Pin=P1-37
+Added Pin To Net: NetName=NETLABEL84 Pin=P2-37
+Added Net: Name=NETLABEL84
+Added Pin To Net: NetName=NETLABEL85 Pin=P1-39
+Added Pin To Net: NetName=NETLABEL85 Pin=P2-39
+Added Net: Name=NETLABEL85
+Added Pin To Net: NetName=NETLABEL86 Pin=P1-41
+Added Pin To Net: NetName=NETLABEL86 Pin=P2-41
+Added Net: Name=NETLABEL86
+Added Pin To Net: NetName=NETLABEL87 Pin=P1-43
+Added Pin To Net: NetName=NETLABEL87 Pin=P2-43
+Added Net: Name=NETLABEL87
+Added Pin To Net: NetName=NETLABEL88 Pin=P1-45
+Added Pin To Net: NetName=NETLABEL88 Pin=P2-45
+Added Net: Name=NETLABEL88
+Added Pin To Net: NetName=NETLABEL89 Pin=P1-47
+Added Pin To Net: NetName=NETLABEL89 Pin=P2-47
+Added Net: Name=NETLABEL89
+Added Pin To Net: NetName=NETLABEL90 Pin=P1-49
+Added Pin To Net: NetName=NETLABEL90 Pin=P2-49
+Added Net: Name=NETLABEL90
+Added Pin To Net: NetName=NETLABEL91 Pin=P3-1
+Added Pin To Net: NetName=NETLABEL91 Pin=P4-1
+Added Net: Name=NETLABEL91
+Added Pin To Net: NetName=NETLABEL92 Pin=P3-3
+Added Pin To Net: NetName=NETLABEL92 Pin=P4-3
+Added Net: Name=NETLABEL92
+Added Pin To Net: NetName=NETLABEL93 Pin=P3-5
+Added Pin To Net: NetName=NETLABEL93 Pin=P4-5
+Added Net: Name=NETLABEL93
+Added Pin To Net: NetName=NETLABEL94 Pin=P3-7
+Added Pin To Net: NetName=NETLABEL94 Pin=P4-7
+Added Net: Name=NETLABEL94
+Added Pin To Net: NetName=NETLABEL95 Pin=P3-9
+Added Pin To Net: NetName=NETLABEL95 Pin=P4-9
+Added Net: Name=NETLABEL95
+Added Pin To Net: NetName=NETLABEL96 Pin=P3-11
+Added Pin To Net: NetName=NETLABEL96 Pin=P4-11
+Added Net: Name=NETLABEL96
+Added Pin To Net: NetName=NETLABEL97 Pin=P3-13
+Added Pin To Net: NetName=NETLABEL97 Pin=P4-13
+Added Net: Name=NETLABEL97
+Added Pin To Net: NetName=NETLABEL98 Pin=P3-15
+Added Pin To Net: NetName=NETLABEL98 Pin=P4-15
+Added Net: Name=NETLABEL98
+Added Pin To Net: NetName=NETLABEL99 Pin=P3-17
+Added Pin To Net: NetName=NETLABEL99 Pin=P4-17
+Added Net: Name=NETLABEL99
+Added Pin To Net: NetName=NETLABEL100 Pin=P3-19
+Added Pin To Net: NetName=NETLABEL100 Pin=P4-19
+Added Net: Name=NETLABEL100
+Added Pin To Net: NetName=NETLABEL101 Pin=P3-21
+Added Pin To Net: NetName=NETLABEL101 Pin=P4-21
+Added Net: Name=NETLABEL101
+Added Pin To Net: NetName=NETLABEL102 Pin=P3-23
+Added Pin To Net: NetName=NETLABEL102 Pin=P4-23
+Added Net: Name=NETLABEL102
+Added Pin To Net: NetName=NETLABEL103 Pin=P3-25
+Added Pin To Net: NetName=NETLABEL103 Pin=P4-25
+Added Net: Name=NETLABEL103
+Added Pin To Net: NetName=NETLABEL104 Pin=P3-27
+Added Pin To Net: NetName=NETLABEL104 Pin=P4-27
+Added Net: Name=NETLABEL104
+Added Pin To Net: NetName=NETLABEL105 Pin=P3-29
+Added Pin To Net: NetName=NETLABEL105 Pin=P4-29
+Added Net: Name=NETLABEL105
+Added Pin To Net: NetName=NETLABEL106 Pin=P3-31
+Added Pin To Net: NetName=NETLABEL106 Pin=P4-31
+Added Net: Name=NETLABEL106
+Added Pin To Net: NetName=NETLABEL107 Pin=P3-33
+Added Pin To Net: NetName=NETLABEL107 Pin=P4-33
+Added Net: Name=NETLABEL107
+Added Pin To Net: NetName=NETLABEL108 Pin=P3-35
+Added Pin To Net: NetName=NETLABEL108 Pin=P4-35
+Added Net: Name=NETLABEL108
+Added Pin To Net: NetName=NETLABEL109 Pin=P3-37
+Added Pin To Net: NetName=NETLABEL109 Pin=P4-37
+Added Net: Name=NETLABEL109
+Added Pin To Net: NetName=NETLABEL110 Pin=P3-39
+Added Pin To Net: NetName=NETLABEL110 Pin=P4-39
+Added Net: Name=NETLABEL110
+Added Pin To Net: NetName=NETLABEL111 Pin=P3-41
+Added Pin To Net: NetName=NETLABEL111 Pin=P4-41
+Added Net: Name=NETLABEL111
+Added Pin To Net: NetName=NETLABEL112 Pin=P3-43
+Added Pin To Net: NetName=NETLABEL112 Pin=P4-43
+Added Net: Name=NETLABEL112
+Added Pin To Net: NetName=NETLABEL113 Pin=P3-45
+Added Pin To Net: NetName=NETLABEL113 Pin=P4-45
+Added Net: Name=NETLABEL113
+Added Pin To Net: NetName=NETLABEL114 Pin=P3-47
+Added Pin To Net: NetName=NETLABEL114 Pin=P4-47
+Added Net: Name=NETLABEL114
+Added Pin To Net: NetName=NETLABEL115 Pin=P3-49
+Added Pin To Net: NetName=NETLABEL115 Pin=P4-49
+Added Net: Name=NETLABEL115
+Added Pin To Net: NetName=NETLABEL116 Pin=P3-2
+Added Pin To Net: NetName=NETLABEL116 Pin=P4-2
+Added Net: Name=NETLABEL116
+Added Pin To Net: NetName=NETLABEL117 Pin=P3-4
+Added Pin To Net: NetName=NETLABEL117 Pin=P4-4
+Added Net: Name=NETLABEL117
+Added Pin To Net: NetName=NETLABEL118 Pin=P3-6
+Added Pin To Net: NetName=NETLABEL118 Pin=P4-6
+Added Net: Name=NETLABEL118
+Added Pin To Net: NetName=NETLABEL119 Pin=P3-8
+Added Pin To Net: NetName=NETLABEL119 Pin=P4-8
+Added Net: Name=NETLABEL119
+Added Pin To Net: NetName=NETLABEL120 Pin=P3-10
+Added Pin To Net: NetName=NETLABEL120 Pin=P4-10
+Added Net: Name=NETLABEL120
+Added Pin To Net: NetName=NETLABEL121 Pin=P3-12
+Added Pin To Net: NetName=NETLABEL121 Pin=P4-12
+Added Net: Name=NETLABEL121
+Added Pin To Net: NetName=NETLABEL122 Pin=P3-14
+Added Pin To Net: NetName=NETLABEL122 Pin=P4-14
+Added Net: Name=NETLABEL122
+Added Pin To Net: NetName=NETLABEL123 Pin=P3-16
+Added Pin To Net: NetName=NETLABEL123 Pin=P4-16
+Added Net: Name=NETLABEL123
+Added Pin To Net: NetName=NETLABEL124 Pin=P3-18
+Added Pin To Net: NetName=NETLABEL124 Pin=P4-18
+Added Net: Name=NETLABEL124
+Added Pin To Net: NetName=NETLABEL125 Pin=P3-20
+Added Pin To Net: NetName=NETLABEL125 Pin=P4-20
+Added Net: Name=NETLABEL125
+Added Pin To Net: NetName=NETLABEL126 Pin=P3-22
+Added Pin To Net: NetName=NETLABEL126 Pin=P4-22
+Added Net: Name=NETLABEL126
+Added Pin To Net: NetName=NETLABEL127 Pin=P3-24
+Added Pin To Net: NetName=NETLABEL127 Pin=P4-24
+Added Net: Name=NETLABEL127
+Added Pin To Net: NetName=NETLABEL128 Pin=P3-26
+Added Pin To Net: NetName=NETLABEL128 Pin=P4-26
+Added Net: Name=NETLABEL128
+Added Pin To Net: NetName=NETLABEL129 Pin=P3-28
+Added Pin To Net: NetName=NETLABEL129 Pin=P4-28
+Added Net: Name=NETLABEL129
+Added Pin To Net: NetName=NETLABEL130 Pin=P3-30
+Added Pin To Net: NetName=NETLABEL130 Pin=P4-30
+Added Net: Name=NETLABEL130
+Added Pin To Net: NetName=NETLABEL131 Pin=P3-32
+Added Pin To Net: NetName=NETLABEL131 Pin=P4-32
+Added Net: Name=NETLABEL131
+Added Pin To Net: NetName=NETLABEL132 Pin=P3-34
+Added Pin To Net: NetName=NETLABEL132 Pin=P4-34
+Added Net: Name=NETLABEL132
+Added Pin To Net: NetName=NETLABEL134 Pin=P3-36
+Added Pin To Net: NetName=NETLABEL134 Pin=P4-36
+Added Net: Name=NETLABEL134
+Added Pin To Net: NetName=NETLABEL135 Pin=P3-38
+Added Pin To Net: NetName=NETLABEL135 Pin=P4-38
+Added Net: Name=NETLABEL135
+Added Pin To Net: NetName=NETLABEL136 Pin=P3-40
+Added Pin To Net: NetName=NETLABEL136 Pin=P4-40
+Added Net: Name=NETLABEL136
+Added Pin To Net: NetName=NETLABEL137 Pin=P3-42
+Added Pin To Net: NetName=NETLABEL137 Pin=P4-42
+Added Net: Name=NETLABEL137
+Added Pin To Net: NetName=NETLABEL138 Pin=P3-44
+Added Pin To Net: NetName=NETLABEL138 Pin=P4-44
+Added Net: Name=NETLABEL138
+Added Pin To Net: NetName=NETLABEL139 Pin=P3-46
+Added Pin To Net: NetName=NETLABEL139 Pin=P4-46
+Added Net: Name=NETLABEL139
+Added Pin To Net: NetName=NETLABEL140 Pin=P3-48
+Added Pin To Net: NetName=NETLABEL140 Pin=P4-48
+Added Net: Name=NETLABEL140
+Added Pin To Net: NetName=NETLABEL141 Pin=P3-50
+Added Pin To Net: NetName=NETLABEL141 Pin=P4-50
+Added Net: Name=NETLABEL141
+Added Member To Class: ClassName=stm32f407pin Member=Component P1 Header 25X2
+Added Member To Class: ClassName=stm32f407pin Member=Component P2 Header 25X2
+Added Member To Class: ClassName=stm32f407pin Member=Component P3 Header 25X2
+Added Member To Class: ClassName=stm32f407pin Member=Component P4 Header 25X2
