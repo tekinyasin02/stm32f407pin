@@ -1,0 +1,15 @@
+*************************************************************
+FileName = stm32f407pin.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Overlay
+      File : stm32f407pin.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+*************************************************************
+

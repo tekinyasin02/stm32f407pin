@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [stm32f407pin.PrjPcb]
+   Generated File[stm32f407pin.TXT]
+   Generated File[stm32f407pin.LDP]
+   Generated File[stm32f407pin.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 15:17:57 On 03.08.2019
